@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
    
-   double x=2,y=69,sum;
+   double x=6,y=19,sum;
    
     while(1/x>=1/y){
         sum +=1/x;
